@@ -1,1 +1,2 @@
 # intro-to-python
+In This repository you may find for each topic covered in the canva project, a python code with the name of the topic in which you can visualize examples to enhance the learning process. You can access the link to the presentation here : https://www.canva.com/design/DAFvEDFIcJU/p-njBIbMlfmF89_ukx5JFg/view?utm_content=DAFvEDFIcJU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
